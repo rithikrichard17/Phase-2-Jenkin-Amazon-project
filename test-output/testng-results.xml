@@ -2,31 +2,31 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-30T13:43:41 IST" name="Default suite" finished-at="2023-11-30T13:44:16 IST" duration-ms="35168">
+  <suite started-at="2023-11-30T14:03:31 IST" name="test1" finished-at="2023-11-30T14:04:02 IST" duration-ms="30829">
     <groups>
     </groups>
-    <test started-at="2023-11-30T13:43:41 IST" name="Default test" finished-at="2023-11-30T13:44:16 IST" duration-ms="35168">
+    <test started-at="2023-11-30T14:03:31 IST" name="POMFramework" finished-at="2023-11-30T14:04:02 IST" duration-ms="30829">
       <class name="com.Amazon.qa.TestPages.HomePageAmazonTest">
-        <test-method is-config="true" signature="InitializeExtentReport()[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:43:40 IST" name="InitializeExtentReport" finished-at="2023-11-30T13:43:41 IST" duration-ms="965" status="PASS">
+        <test-method is-config="true" signature="InitializeExtentReport()[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:03:30 IST" name="InitializeExtentReport" finished-at="2023-11-30T14:03:31 IST" duration-ms="795" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InitializeExtentReport -->
-        <test-method is-config="true" signature="getNamemethod(org.testng.ITestContext)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:43:41 IST" name="getNamemethod" finished-at="2023-11-30T13:43:41 IST" duration-ms="18" status="PASS">
+        <test-method is-config="true" signature="getNamemethod(org.testng.ITestContext)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:03:31 IST" name="getNamemethod" finished-at="2023-11-30T14:03:31 IST" duration-ms="49" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@2a8b33ba]]>
+                <![CDATA[org.testng.TestRunner@3fcbc766]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getNamemethod -->
-        <test-method is-config="true" signature="OpenApp()[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:43:41 IST" name="OpenApp" finished-at="2023-11-30T13:43:48 IST" duration-ms="7771" status="PASS">
+        <test-method is-config="true" signature="OpenApp()[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:03:31 IST" name="OpenApp" finished-at="2023-11-30T14:03:39 IST" duration-ms="7853" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenApp -->
-        <test-method signature="enterProduct(java.lang.String)[pri:49, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:43:51 IST" name="enterProduct" data-provider="testdata" finished-at="2023-11-30T13:43:59 IST" duration-ms="8073" status="PASS">
+        <test-method signature="enterProduct(java.lang.String)[pri:49, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:03:41 IST" name="enterProduct" data-provider="testdata" finished-at="2023-11-30T14:03:55 IST" duration-ms="14040" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterProduct -->
-        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:43:59 IST" name="generateTestStatus" finished-at="2023-11-30T13:43:59 IST" duration-ms="91" status="PASS">
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:03:55 IST" name="generateTestStatus" finished-at="2023-11-30T14:03:55 IST" duration-ms="20" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -46,18 +46,18 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[[TestResult name=enterProduct status=SUCCESS method=HomePageAmazonTest.enterProduct(java.lang.String)[pri:49, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818] output={null}]]]>
+                <![CDATA[[TestResult name=enterProduct status=SUCCESS method=HomePageAmazonTest.enterProduct(java.lang.String)[pri:49, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateTestStatus -->
-        <test-method signature="clickonfilter()[pri:50, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:43:59 IST" name="clickonfilter" finished-at="2023-11-30T13:44:02 IST" duration-ms="2362" status="PASS">
+        <test-method signature="clickonfilter()[pri:50, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:03:55 IST" name="clickonfilter" finished-at="2023-11-30T14:03:58 IST" duration-ms="2750" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickonfilter -->
-        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:44:02 IST" name="generateTestStatus" finished-at="2023-11-30T13:44:02 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:03:58 IST" name="generateTestStatus" finished-at="2023-11-30T14:03:58 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -66,18 +66,18 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[[TestResult name=clickonfilter status=SUCCESS method=HomePageAmazonTest.clickonfilter()[pri:50, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818] output={null}]]]>
+                <![CDATA[[TestResult name=clickonfilter status=SUCCESS method=HomePageAmazonTest.clickonfilter()[pri:50, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateTestStatus -->
-        <test-method signature="clickonProduct()[pri:51, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:44:02 IST" name="clickonProduct" finished-at="2023-11-30T13:44:05 IST" duration-ms="2884" status="PASS">
+        <test-method signature="clickonProduct()[pri:51, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:03:58 IST" name="clickonProduct" finished-at="2023-11-30T14:04:01 IST" duration-ms="2987" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickonProduct -->
-        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:44:05 IST" name="generateTestStatus" finished-at="2023-11-30T13:44:05 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:04:01 IST" name="generateTestStatus" finished-at="2023-11-30T14:04:01 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -86,18 +86,18 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[[TestResult name=clickonProduct status=SUCCESS method=HomePageAmazonTest.clickonProduct()[pri:51, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818] output={null}]]]>
+                <![CDATA[[TestResult name=clickonProduct status=SUCCESS method=HomePageAmazonTest.clickonProduct()[pri:51, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateTestStatus -->
-        <test-method signature="pageTitle()[pri:52, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:44:05 IST" name="pageTitle" finished-at="2023-11-30T13:44:16 IST" duration-ms="11058" status="PASS">
+        <test-method signature="pageTitle()[pri:52, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:04:01 IST" name="pageTitle" finished-at="2023-11-30T14:04:02 IST" duration-ms="1470" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitle -->
-        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:44:16 IST" name="generateTestStatus" finished-at="2023-11-30T13:44:16 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="generateTestStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:04:02 IST" name="generateTestStatus" finished-at="2023-11-30T14:04:02 IST" duration-ms="4" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -106,18 +106,18 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[[TestResult name=pageTitle status=SUCCESS method=HomePageAmazonTest.pageTitle()[pri:52, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818] output={null}]]]>
+                <![CDATA[[TestResult name=pageTitle status=SUCCESS method=HomePageAmazonTest.pageTitle()[pri:52, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateTestStatus -->
-        <test-method is-config="true" signature="generateReports()[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@7d9d0818]" started-at="2023-11-30T13:44:16 IST" name="generateReports" finished-at="2023-11-30T13:44:20 IST" duration-ms="4367" status="PASS">
+        <test-method is-config="true" signature="generateReports()[pri:0, instance:com.Amazon.qa.TestPages.HomePageAmazonTest@5386659f]" started-at="2023-11-30T14:04:02 IST" name="generateReports" finished-at="2023-11-30T14:04:09 IST" duration-ms="6964" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReports -->
       </class> <!-- com.Amazon.qa.TestPages.HomePageAmazonTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- POMFramework -->
+  </suite> <!-- test1 -->
 </testng-results>
